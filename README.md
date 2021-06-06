@@ -19,3 +19,6 @@
 #comments Sentiment script gives the sentiment score of each comment passed.
 
 #move posts and comments script is designed to move the files to HDFS
+
+
+#Facebook has done many changes in the graph API from time to time. this program is based on the data retrieved in 2017. You are request to modify your code according to new Metrices of the API
